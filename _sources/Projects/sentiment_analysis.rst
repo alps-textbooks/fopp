@@ -100,7 +100,7 @@ The way to think about this is what is the probability of it being bowl one give
 
 .. math::
 
-    P(C) \cdot \prod{P(x_i | C)
+    P(C) \cdot \prod{P(x_i | C)}
 
 When chosing between multiple categories we can think of each category as :math:`C_j` and then that gives us
 
