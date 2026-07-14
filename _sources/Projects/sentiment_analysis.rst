@@ -222,7 +222,7 @@ The table above shows you an example (the numbers will not match yours exactly) 
 
 .. fillintheblank:: act_cc_oneword
 
-   What is the probability that if a tweet contains the word 'green' that it is from a Y tweet? |blank|  What is the probablility that it is from an N tweet?
+   What is the probability that if a tweet contains the word 'green' that it is from a Y tweet? |blank|  What is the probability that it is from an N tweet? |blank|
 
    - :[0].015.*: Is the correct answer
      :x: Word is the same as Cookie, Y is the same as Bowl1 and N is the same as Bowl2

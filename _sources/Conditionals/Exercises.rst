@@ -445,7 +445,6 @@ Exercises
       Write a program that will print out a greeting to each student in the list. This list should also keep track of how many students have been greeted and note that each time a new student has been greeted. When only one student has entered, the program should say "The first student has entered!". Afterwards, the program should say "There are {number here} students in the classroom!".
       -----
       students = ["Jay", "Stacy", "Iman", "Trisha", "Ahmed", "Daniel", "Shadae", "Tosin", "Charlotte"]
-      =====
       num_students = 0
       =====
       for student in students:
