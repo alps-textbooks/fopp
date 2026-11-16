@@ -38,5 +38,5 @@ speed       integer       0 = no animation, fastest; 1 = slowest; 10 = very fast
 ==========  ==========  =========================
 
 Once you are comfortable with the basics of turtle graphics you can read about even
-more options on the `Python Docs Website <http://docs.python.org/dev/py3k/library/turtle.html>`_.  Note that we
+more options on the `Python Docs Website <https://docs.python.org/3/library/turtle.html>`_.  Note that we
 will describe Python Docs in more detail in the next chapter.

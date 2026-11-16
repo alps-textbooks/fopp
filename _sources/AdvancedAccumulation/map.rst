@@ -64,7 +64,7 @@ don't have to initialize an accumulator or iterate with a for loop at all.
     Technically, in a proper Python 3 interpreter, the ``map`` function produces an "iterator", which is like a list but
     produces the items as they are needed. Most places in Python where you can use a list (e.g., in a for loop) you can
     use an "iterator" as if it was actually a list. So you probably won't ever notice the difference. If you ever really
-    need a list, you can explicitly turn the output of map into a list: ``list(map(...))``. In the runestone environment, ``map`` actually returns a real list, but to make this code compatible with a full python environment, we always convert it to a list.
+    need a list, you can explicitly turn the output of map into a list: ``list(map(...))``. To make this code compatible with a full python environment, we always convert it to a list.
 
 As we did when passing a function as a parameter to the ``sorted`` function, we can specify a function to pass to ``map``
 either by referring to a function by name, or by providing a lambda expression.

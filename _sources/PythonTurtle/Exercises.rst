@@ -221,15 +221,3 @@ Exercises
 
       Create a turtle and assign it to a variable.  When you print its type, what do you get?
       ~~~~
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

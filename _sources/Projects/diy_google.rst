@@ -49,7 +49,7 @@ Now lets put those tags to use to create a simple web page.
     </ol>
     </p>
 
-If you click on the Save and Run button The HTML description of the page will be rendered right next to it as output.  Feel free to experiment and make some changes to the html.  For example change the ol tag to a ul tag to make our list unnumbered, or add your own list.
+If you click on the Run button The HTML description of the page will be rendered right next to it as output.  Feel free to experiment and make some changes to the html.  For example change the ol tag to a ul tag to make our list unnumbered, or add your own list.
 
 The thing that gives HTML superpowers is the simple `a` tag. This tag allows us to add links that take us from one document to another.  Copy and paste this tag to the bottom of the source code above and then re-run it.  ``<a href="/runestone/static/fopp/_static/home.html">Home</a>``  You will notice that the word Home has now become a link.  You can even click on it in the little mini-browser window and it will take you to a new page.
 

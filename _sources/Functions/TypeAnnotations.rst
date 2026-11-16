@@ -122,7 +122,7 @@ In the code below, the function `add_em_up` takes an input that is expected to b
                 tot += num
             return tot
 
-Actually, this code should work just fine if the inputs are either integers or floats. If any are floats, then the return value will be a float. The more recent versions of type annotations in python allow the use the `|` symbol (pronounced "pipe") to specify a union, that either of two types is permitted. You may find that it's not permitted in the current runestone interpreter, though.
+Actually, this code should work just fine if the inputs are either integers or floats. If any are floats, then the return value will be a float. The more recent versions of type annotations in python allow the use the `|` symbol (pronounced "pipe") to specify a union, that either of two types is permitted.
 
 .. activecode:: ac_annotate5
 

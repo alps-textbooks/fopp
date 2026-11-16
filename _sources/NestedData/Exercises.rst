@@ -129,15 +129,3 @@ Exercises
                       self.assertEqual(most_common_pokemon, 'Rattata', "Testing that most_common_pokemon has the correct value.")
 
               myTests().main()
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

@@ -169,7 +169,7 @@ In one of our previous labs we calculated the variance and the standard deviatio
 
 .. figure:: http://www.usablestats.com/images/men_women_height_histogram.jpg
 
-`Image from Usable Stats <http://www.usablestats.com/lessons/normal>`_
+Image from Usable Stats
 
 Here is a histogram of our kiva data and the amount of money loaned.
 

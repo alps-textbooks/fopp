@@ -611,14 +611,3 @@ Exercises
                       self.assertNotIn('zip(', self.getEditorText(), "Testing your code (Don't worry about actual and expected values).")
 
               myTests().main()
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

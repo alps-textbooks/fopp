@@ -4,7 +4,6 @@ Projects
 .. toctree::
     :hidden:
 
-    IntroProjects.rst
     scaffolded_code.rst
     turtle_driving.rst 
     input_compute_output.rst   
@@ -26,5 +25,4 @@ Projects
     better_pizza_predictions.rst
     clustering.rst
     sentiment_analysis.rst
-    jupyterlite.rst
 
