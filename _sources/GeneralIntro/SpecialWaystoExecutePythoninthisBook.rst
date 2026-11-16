@@ -37,6 +37,8 @@ first print statement by changing the word *adds* to the word *multiplies*.  Now
 
 *Run* also *saves* your latest version of the code, so you can come back to it later,
 even in a later session.
+Once you have run a program, the *Code history* button (a clock icon) lets you
+look back through the earlier versions of your code.
 
 In addition to activecode, you can also execute Python code with the assistance of a unique 
 visualization tool. This tool, known as **codelens**, allows you to control the step by 
