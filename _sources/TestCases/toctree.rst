@@ -15,5 +15,4 @@ Test Cases
    WPProgramDevelopment.rst
    Glossary.rst
    ChapterAssessment.rst
-   Exercises.rst
    

@@ -79,14 +79,3 @@ Exercises
                        self.assertEqual(fifth, ['o', 'k', 'w', 't', 'n'], "Testing that fifth is assigned to correct values.")
 
                myTests().main()
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

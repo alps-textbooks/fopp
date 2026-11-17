@@ -41,10 +41,6 @@ Why doesn't ``assert`` print out something saying that the test passed? The reas
 
 To write a test, we must know what we *expect* some value to be at a particular point in the program's execution. In the rest of the chapter, we'll see some examples of ``assert`` statements and ideas for what kinds of assertions one might want to add in one's programs.
 
-.. note::
-    A note to instructors: this chapter is deliberately structured so that you can introduce testing early in the course if you want to. You will need to cover chapter 8, on Conditionals, before starting this chapter, because that chapter covers Booleans. The subchapters on testing types and testing conditionals can be covered right after that. The subchapter on testing functions can be delayed until after you have covered function definition.
-
-
 **Check your understanding**
 
 .. mchoice:: question19_1_1

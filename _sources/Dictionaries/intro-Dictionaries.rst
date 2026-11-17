@@ -178,4 +178,4 @@ The key ``'two'`` yields the value ``'dos'``. The key ``one`` yields the value `
 
 
 
-.. [*] Instructors note: Python version 3.7 and later `provide ordering guarantees <https://mail.python.org/pipermail/python-dev/2017-December/151283.html>`_. However, it is best practice to write code that does not rely on any particular key order so this book will treat key-value pairs as unordered.
+.. [*] Python version 3.7 and later `provide ordering guarantees <https://mail.python.org/pipermail/python-dev/2017-December/151283.html>`_. However, it is best practice to write code that does not rely on any particular key order so this book will treat key-value pairs as unordered.

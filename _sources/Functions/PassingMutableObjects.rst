@@ -25,7 +25,7 @@ Take a look at the following code example. Can you predict what will happen when
    double(num)
    print(num)
 
-Use **Show CodeLens** to step through the code to see why the assignment to the formal parameter ``y``
+Use the **CodeLens** tab to step through the code to see why the assignment to the formal parameter ``y``
 inside ``double`` did not affect the argument ``num``. An assignment to a formal parameter inside a function **never**
 affects the argument in the caller.
 

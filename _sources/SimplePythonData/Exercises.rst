@@ -385,15 +385,3 @@ Exercises
       teaspoons = user_tablespoons * 3
       =====
       print("Number of teaspoons: " + str(teaspoons))
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

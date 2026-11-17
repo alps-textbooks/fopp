@@ -48,7 +48,7 @@ Second Edition
   Gin Rummy, in Python that I finally knew what I wanted to use as the case
   study for the object oriented programming chapters.
 * A *special* thanks to pioneering students in Jeff's Python Programming class
-  at `GCTAA <http://www.arlington.k12.va.us/1540108115320583/blank/browse.asp?A=383&BMDRN=2000&BCOB=0&C=59085>`__ during the 2009-2010 school year: Safath
+  at GCTAA during the 2009-2010 school year: Safath
   Ahmed, Howard Batiste, Louis Elkner-Alfaro, and Rachel Hancock.  Your
   continual and thoughtfull feedback led to changes in most of the chapters of
   the book.  You set the standard for the active and engaged learners that will

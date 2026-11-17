@@ -27,7 +27,7 @@ This first activity is designed to get you started writing some simple programs 
 
 The  metaphor to have in your head for this is that you have a turtle that you can control from your program.  The turtle understands a few basic instructions such as `forward`, `backward`, `left`, `right`, `up`, `down`, `color` and others that you can look up.  You can use these basic instructions to quite a bit, and as we learn more and more about Python programming you will be able to make the turtle do more interesting tasks, for example it is even possible to write a retro style video game using turtle graphics if that is your thing.
 
-Don't worry about making mistakes, it is normal and happens to even the most experienced programmers.  At worst you can simply reload the page if you get stuck.  If you try something and don't like it the slider at the top of the window where you enter code can be used to back up to a previous version of your program.
+Don't worry about making mistakes, it is normal and happens to even the most experienced programmers.  At worst you can simply reload the page if you get stuck.  If you try something and don't like it, the *Code history* button (a clock icon) lets you look back at a previous version of your program.
 
 .. activecode:: act_turtle_2
     :nocodelens:

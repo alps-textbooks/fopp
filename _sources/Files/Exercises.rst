@@ -186,15 +186,3 @@ The file below is ``emotion_words.txt``.
                      self.assertEqual(j_emotions, ['joyous', 'jittery', 'jumpy'], "Testing that j_emotions was created correctly.")
 
                myTests().main()
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

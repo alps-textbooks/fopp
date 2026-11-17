@@ -49,15 +49,3 @@ Exercises
       for sentence in phrases:
       =====
           print(sentence.count("t"))
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

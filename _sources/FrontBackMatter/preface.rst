@@ -24,7 +24,7 @@ At the beginning of each chapter, we will outline for you the learning goals and
 Understanding computer programs requires orderly, logical, mechanistic thinking. Programs are just sequences of actions to perform; when executed, they transform input data into output data:
 
 * numbers turn into other numbers (e.g. basic math operations like sin or log)
-* images turn into words or numbers (e.g. a cell phone photo of a diseased-looking leaf of a plant becomes the `name of the disease affecting the plant <https://plantix.net/>`_ or `the number of whiteflies <http://cis.mak.ac.ug/index.php/news-events/372-whitefly-mobile-app-to-boost-cassava-disease-diagnosis-and-production>`_ infesting it)
+* images turn into words or numbers (e.g. a cell phone photo of a diseased-looking leaf of a plant becomes the `name of the disease affecting the plant <https://plantix.net/>`_ or the number of whiteflies infesting it)
 * images turn into other images (e.g. filters in Instagram)
 * words turn into tables (e.g. reporting the `number of times each character speaks <https://www.opensourceshakespeare.org/views/plays/characters/chardisplay.php>`_ in Shakespeare's works)
 * numbers turn into 3D models of great works of art (e.g. Stanford's `Michelangelo project <http://graphics.stanford.edu/papers/digmich_falletti/>`_)

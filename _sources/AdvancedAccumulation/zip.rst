@@ -72,7 +72,7 @@ Or, simplifying and using a list comprehension:
    L3 = [x1 + x2 for (x1, x2) in list(zip(L1, L2))]
    print(L3)
 
-Or, using ``map`` and not unpacking the tuple (our online environment has trouble with unpacking the tuple in a lambda expression):
+Or, using ``map`` and not unpacking the tuple:
 
 .. activecode:: ac21_5_5
 

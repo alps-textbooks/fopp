@@ -49,14 +49,3 @@ Exercises
               alan = ("Alan", "Turing", 1912, "Computing machinery and intelligence", 1950, "Mathematician", "London, England")
     
               people = [julia, claude, alan]
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

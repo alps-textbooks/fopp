@@ -215,15 +215,3 @@ Here's *all* the code we just saw for our new and improved game, with a few addi
               import sys
               sys.setExecutionLimit(60000)
               play()
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

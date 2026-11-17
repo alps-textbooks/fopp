@@ -11,7 +11,7 @@
 
 Whether you are into Facebook, Instagram, or Snapchat you are probably familiar with all kinds of image filters and manipulations.  It turns out that lots of the filters you can apply to images are pretty fun to code.  Hopefully you have read the :ref:`Nested Iteration and Image Processing section<image_proc>` to get yourself ready for this project.  In any case you will probably want to open up that section in another tab so you can refer to the image module functions that are provided.
 
-You can use the following image using the name "golden_gate.png" or you can use any image you choose by using the full URL to the image.  For example: ``http://reputablejournal.com/images/ComputerHistory/TeleType.png``  will use an automatically reduced size image of a picture the author took in the computer history museum.
+You can use the following image using the name "golden_gate.png" or you can use any image you choose by using the full URL to the image.
 
 
 .. datafile:: golden_gate.png
@@ -174,11 +174,7 @@ For our final project from this section lets take parts from two different image
 
     # your code here
 
-Challenge:  Can you figure out how to rotate your image by an arbitrary angle?  Here's a diagram that will give you a pretty big hint, but remember that in the diagram the x and y coordinates grow up and to the right with 0,0 in the lower left.  However, in your image 0,0 is in the upper left corner and x and y grow down and to the right.  Also you'll have to be really careful about how you size your resulting image to make sure you have room for your rotated image.
-
-.. image:: http://robgrondahl.com/MPG/Wiki/2DRotation.bmp
-
-Diagram licensed under Creative Commons Attribution (http://robgrondahl.com)
+Challenge:  Can you figure out how to rotate your image by an arbitrary angle?  Remember that in your image 0,0 is in the upper left corner and x and y grow down and to the right.  Also you'll have to be really careful about how you size your resulting image to make sure you have room for your rotated image.
 
 .. activecode::  act_ip_9
     :nocodelens:

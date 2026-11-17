@@ -403,7 +403,6 @@ The following code box gives you a framework for trying each process.
     :include: act_0_imageproc
     :nocodelens:
 
-    # Here is seed text that can go in the activecode window for them to modify
     original = image.Image('yawning_squirrel.jpg')
     final = process10(original)
     newwin=image.ImageWin(final.getWidth(),final.getHeight())
@@ -428,7 +427,6 @@ Now it is your turn to combine these various effects together.  The output from 
     :include: act_0_imageproc
     :nocodelens:
 
-    # Here is seed text that can go in the activecode window for them to modify
     original = image.Image('yawning_squirrel.jpg')
     step1 = process1(original)
     final = process4(step1)

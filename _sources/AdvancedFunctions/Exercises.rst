@@ -86,15 +86,3 @@ Exercises
                       self.assertEqual(together(493.3, 'beans', ' lima '), '493.3 lima beans', "Testing that together returns the correct string on input (493.3, 'beans', 'lima')")
 
               myTests().main()
-
-
-Contributed Exercises
-~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-    {% for q in questions: %}
-        <div class='oneq full-width'>
-            {{ q['htmlsrc']|safe }}
-        </div>
-    {% endfor %}

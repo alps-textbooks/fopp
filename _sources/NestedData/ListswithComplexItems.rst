@@ -147,8 +147,7 @@ lines 1 and 2. The second is the built-in python function abs. The third is an a
 than its input.
 
 In the first for loop, we do not call the functions, we just output their printed representations. The output
-<function square> confirms that square truly is a function object. For some reason, in our online environment, it's not
-able to produce a nice printed representation of the built-in function abs, so it just outputs <unknown>
+<function square> confirms that square truly is a function object.
 
 In the second for loop, we call each of the functions, passing in the value -2 each time and printing whatever value the
 function returns.
